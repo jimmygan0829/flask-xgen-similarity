@@ -4,9 +4,9 @@
 
 Convert image to CNN features and utilize KNN model to search top K similar images in the features space.
 
-Pros: easy to implement
+Pros: easy to implement, but NN search is relatively accurate
 
-Cons: computationally costly (requires large amount of memory (at least 5 Gb)) and scalability would be a great issues if the number of images increase.
+Cons: computationally costly (requires large amount of memory (at least 6 Gb)) and scalability would be a great issues if the number of images increase.
 
 ### Alternative approach:
 
