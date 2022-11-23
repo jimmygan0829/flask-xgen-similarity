@@ -18,11 +18,11 @@ Go to [Google Drive](https://drive.google.com/drive/folders/1vc3ubtrhpsiRYRxEeRh
 
 |— resnet
 
-|— assets
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— assets
 
-|— variables
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— variables
 
-|— saved_model.pb
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— saved_model.pb
 
 **make sure the file structure is like this before running local method**
 
