@@ -20,19 +20,19 @@ Cons: computationally costly (requires large amount of memory (at least 5 Gb)) a
 
 |— valentino
 
-|— 0.jpg
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— 0.jpg
 
-|— 1.jpg …
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— 1.jpg …
 
 |— img_similarity.ipynb
 
 |— resnet
 
-|— assets
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— assets
 
-|— variables
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— variables
 
-|— saved_model.pb
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|— saved_model.pb
 
 1. Run the first part of data_extract.ipynb to create folder of images
 2. Run img_similarity.ipynb to 
